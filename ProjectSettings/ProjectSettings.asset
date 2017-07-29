@@ -478,6 +478,7 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 1
     UNet: 1
   cloudProjectId: c1e0b109-d233-4b8e-83d1-f0747ff0ad71
   projectName: slotcar
